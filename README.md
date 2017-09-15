@@ -1,1 +1,1 @@
-"# angular_js_basic_todo_app" 
+A simple todo application in AngularJS.
